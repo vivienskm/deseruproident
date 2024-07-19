@@ -1,0 +1,5 @@
+.element {
+    position: absolute;
+    width: 100px;
+    right: 120px; /* 100px (width) + 20px (distance from right edge) */
+}
