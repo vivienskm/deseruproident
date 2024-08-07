@@ -1,0 +1,16 @@
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  width: 250px;
+  border: solid red 1px;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.square {
+  height: 100px;
+  width: 100px;
+  border: solid lime 1px;
+  background-color: transparent !important;
+}
